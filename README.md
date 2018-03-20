@@ -3,10 +3,10 @@
 # Contracts
 Contracts for SafeHaven (platform, token, crowdsale)
 
-Our Corwdsale/token contract (ERC20) is currently being audited by Hosho Inc
+## Our Corwdsale/token contract (ERC20) is currently being audited by Hosho Inc
 
-*Description of Work.
-
+### Description of Work.
+```
   Solidity code analysis
 
   Hosho will test the code for syntactical, semantic, and logical errors.
@@ -15,5 +15,5 @@ Our Corwdsale/token contract (ERC20) is currently being audited by Hosho Inc
   New tests written and run to ensure the code behaves as desired
   Manual review for logic errors
   Fuzz testing to find unknown issues or vulnerabilities
-
+```
 
