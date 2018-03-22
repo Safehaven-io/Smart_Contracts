@@ -3,6 +3,8 @@
 # Contracts
 Contracts for SafeHaven (platform, token, crowdsale)
 
+Vesting contracts are also going to be added soon
+
 ## Our Corwdsale/token contract (ERC20) is currently being audited by Hosho Inc
 
 ### Description of Work.
