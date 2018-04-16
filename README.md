@@ -19,6 +19,7 @@ Vesting contracts are also going to be added soon
   Fuzz testing to find unknown issues or vulnerabilities
 ```
 
-[![N|Solid](https://hosho.io/images/logos/hosho-white.svg)](https://hosho.io)
+[![N|Solid](https://hosho.io/images/logos/hosho.svg)](https://hosho.io)
+
 
 contracts will be uploaded in week 19 (foreseen 22/4)
