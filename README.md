@@ -22,5 +22,5 @@ Vesting contracts are also going to be added soon
 [![N|Solid](https://hosho.io/images/logos/hosho.svg)](https://hosho.io)
 
 ```
-contracts will be uploaded in week 19 (foreseen 22/4)
+contracts will be uploaded in week 22 (foreseen 30/5)
 ```
