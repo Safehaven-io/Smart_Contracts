@@ -23,7 +23,7 @@ Vesting contracts are also going to be added soon
 Even though we moved on to Vechain, deploying an ERC20 token contract on Ethereum was nescesairy to solve to issue our primablock contributors were having. We created a limited supply on Ethereum with the solely purpose of performing a swap afterwards.
 
 Contract adress : https://etherscan.io/address/0x1e85407e080a5e6d20a3a95fcdddfc32146fc8e5
-Kovan adress : https://kovan.etherscan.io/address/0xf0b7f7c40756a9301579bf08e27aaf7f117945bb#readContract
+Kovan adress : https://kovan.etherscan.io/address/0xf0b7f7c40756a9301579bf08e27aaf7f117945bb
 ```
 
 ### Vechain Token contracts.
