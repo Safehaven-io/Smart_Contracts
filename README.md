@@ -28,5 +28,7 @@ Kovan adress : https://kovan.etherscan.io/address/0xf0b7f7c40756a9301579bf08e27a
 
 ### Vechain Token contracts.
 ```
-Will be published soon
+https://explore.veforge.com/accounts/0x5db3c8a942333f6468176a870db36eef120a34dc
 ```
+
+[![N|Solid](https://safehaven.io/files/hosho_secure.png)](https://hosho.io/)
