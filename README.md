@@ -3,7 +3,6 @@
 # Contracts
 Contracts for SafeHaven (platform, token, crowdsale)
 
-Vesting contracts are also going to be added soon
 
 ### Description of the auditing Work.
 ```
