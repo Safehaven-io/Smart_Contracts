@@ -1,4 +1,4 @@
-[![N|Solid](https://safehaven.io/img/logo_color.png)](https://safehaven.io/)
+[![N|Solid](https://github.com/Safehaven-io/Smart_Contracts/blob/master/Media/safehavenlogo.png)](https://safehaven.io/)
 
 # Contracts
 Contracts for SafeHaven, Fundrequest, ThorBlock and inheriti 
