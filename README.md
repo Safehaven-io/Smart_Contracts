@@ -23,14 +23,14 @@ https://explore.veforge.com/accounts/0x5db3c8a942333f6468176a870db36eef120a34dc
 
 ### Inheriti Platform Smart contracts.[![N|Solid](https://img.shields.io/badge/Audited-100%25-blue)](https://inheriti.com/)[![N|Solid](https://img.shields.io/badge/Status-pass-green)](https://inheriti.com/)
 
-[![N|Solid](https://github.com/Safehaven-io/Smart_Contracts/blob/master/Media/inheritilogo.png)](https://inheriti.com/)
+[![N|Solid](https://github.com/Safehaven-io/Smart_Contracts/blob/master/Media/inheritilogo_small.png)](https://inheriti.com/)
 
 ## ThorBlock
 
 ### ThorBlock Platform Smart contracts.[![N|Solid](https://img.shields.io/badge/Audited-100%25-blue)](https://portal.thorblock.io/)[![N|Solid](https://img.shields.io/badge/Status-pass-green)](https://portal.thorblock.io/)
 
 
-[![N|Solid](https://github.com/Safehaven-io/Smart_Contracts/blob/master/Media/thorblocklogo.png)](https://portal.thorblock.io/)
+[![N|Solid](https://github.com/Safehaven-io/Smart_Contracts/blob/master/Media/thorblocklogo_small.png)](https://portal.thorblock.io/)
 
 ## FundRequest
 
@@ -38,7 +38,7 @@ https://explore.veforge.com/accounts/0x5db3c8a942333f6468176a870db36eef120a34dc
 
 ### FundRequest platform Smart Contracts. [![N|Solid](https://img.shields.io/badge/Audited-100%25-blue)](https://fundrequest.io/)[![N|Solid](https://img.shields.io/badge/Status-pass-green)](https://fundrequest.io/)
 
-[![N|Solid](https://github.com/Safehaven-io/Smart_Contracts/blob/master/Media/fundrequestlogo.png)](https://fundrequest.io/)
+[![N|Solid](https://github.com/Safehaven-io/Smart_Contracts/blob/master/Media/fundrequestlogo_small.png)](https://fundrequest.io/)
 
 # Security Auditing partners
 
