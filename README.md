@@ -20,4 +20,4 @@ https://explore.veforge.com/accounts/0x5db3c8a942333f6468176a870db36eef120a34dc
 
 ## FundRequest
 
-[![N|Solid](https://github.com/Safehaven-io/Smart_Contracts/blob/master/Media/fundrequest.png)](https://fundrequest.io/)
+[![N|Solid](https://github.com/Safehaven-io/Smart_Contracts/blob/master/Media/fundrequestlogo.png)](https://fundrequest.io/)
