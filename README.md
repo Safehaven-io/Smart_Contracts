@@ -1,7 +1,7 @@
-[![N|Solid](https://github.com/Safehaven-io/Smart_Contracts/blob/master/Media/safehavenlogo.png)](https://safehaven.io/)
-
 # Contracts
 Contracts for SafeHaven, Fundrequest, ThorBlock and inheriti 
+
+[![N|Solid](https://github.com/Safehaven-io/Smart_Contracts/blob/master/Media/safehavenlogo.png)](https://safehaven.io/)
 
 ## SafeHaven
 
@@ -18,4 +18,6 @@ Kovan adress : https://kovan.etherscan.io/address/0xf0b7f7c40756a9301579bf08e27a
 https://explore.veforge.com/accounts/0x5db3c8a942333f6468176a870db36eef120a34dc
 ```
 
+## FundRequest
 
+[![N|Solid](https://github.com/Safehaven-io/Smart_Contracts/blob/master/Media/fundrequest.png)](https://fundrequest.io/)
