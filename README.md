@@ -73,6 +73,7 @@ const tokenMaturityPeriods: {[key in StrengthLevelValue]: number} = {
 | ------------- | ------------- |
 | storeFactory Test | will be published after all Security audits has been completed  |
 | priceManager Test | will be published after all Security audits has been completed  |
+
 | Contract Name  | Contract Adress |
 | ------------- | ------------- |
 | storeFactory Main |  will be published after all Security audits has been completed |
