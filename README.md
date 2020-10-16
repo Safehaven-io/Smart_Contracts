@@ -19,6 +19,10 @@ Kovan adress : https://kovan.etherscan.io/address/0xf0b7f7c40756a9301579bf08e27a
 https://explore.veforge.com/accounts/0x5db3c8a942333f6468176a870db36eef120a34dc
 ```
 
+### SafeNode Contracts
+
+https://github.com/Safehaven-io/ThorNode-contracts
+
 ## Inheriti
 
 ### Inheriti Platform Smart contracts.[![N|Solid](https://img.shields.io/badge/Audited-100%25-blue)](https://inheriti.com/)[![N|Solid](https://img.shields.io/badge/Status-pass-green)](https://inheriti.com/)
@@ -40,7 +44,7 @@ https://explore.veforge.com/accounts/0x5db3c8a942333f6468176a870db36eef120a34dc
 
 #### Mainnet
 
-| First Header  | Second Header |
+| Contract Name  | Contract Adress |
 | ------------- | ------------- |
 | MiniMeTokenFactory  | 0x8b0b13d43122eaba2b2318387dc6a368ce398f6a  |
 | FundRequestToken  | 0x4df47b4969b2911c966506e3592c41389493953b  |
