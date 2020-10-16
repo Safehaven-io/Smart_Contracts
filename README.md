@@ -143,7 +143,6 @@ const tokenMaturityPeriods: {[key in StrengthLevelValue]: number} = {
 | ClaimRepository  | 0x634074a19df5d6509ccc68fa86e3fe8205f37946  |
 | EternalStorage  | 0x0821d33c50d2d2d1381b5dfca34900bacad909a7  |
 
-
 ### Kovan Staging
 
 ```
@@ -159,9 +158,6 @@ const tokenMaturityPeriods: {[key in StrengthLevelValue]: number} = {
   Server Caller: 0x692a913ad3a1f17a5abb0f060a317a48e9826244
   ClaimSignerAddress: 0xb93206b18f018fb91eefbc39cb59fa1ce8e626d4
 ```
-
-
-
 
 ### Kovan Test
 
