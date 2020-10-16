@@ -81,6 +81,8 @@ const tokenMaturityPeriods: {[key in StrengthLevelValue]: number} = {
 
 ## ThorBlock
 
+[![N|Solid](https://github.com/Safehaven-io/Smart_Contracts/blob/master/Media/thorblocklogo.png)](https://portal.thorblock.io/)
+
 ### ThorBlock Platform Smart contracts.[![N|Solid](https://img.shields.io/badge/Audited-100%25-blue)](https://portal.thorblock.io/)[![N|Solid](https://img.shields.io/badge/Status-pass-green)](https://portal.thorblock.io/)
 
 # Pooling
@@ -119,9 +121,9 @@ const tokenMaturityPeriods: {[key in StrengthLevelValue]: number} = {
 |  ThorblockPreconditionsV1| 0x9e0ddee701aefd1ad36ac1cff5326bbc771611dd|
 
 
-[![N|Solid](https://github.com/Safehaven-io/Smart_Contracts/blob/master/Media/thorblocklogo.png)](https://portal.thorblock.io/)
-
 ## FundRequest
+
+[![N|Solid](https://github.com/Safehaven-io/Smart_Contracts/blob/master/Media/fundrequestlogo.png)](https://fundrequest.io/)
 
 ### Ethereum Token contracts. (ERC20) [![N|Solid](https://img.shields.io/badge/Audited-100%25-blue)](https://fundrequest.io/)[![N|Solid](https://img.shields.io/badge/Status-pass-green)](https://fundrequest.io/)
 
@@ -177,8 +179,6 @@ const tokenMaturityPeriods: {[key in StrengthLevelValue]: number} = {
   Server Caller: 0x692a913ad3a1f17a5abb0f060a317a48e9826244
   ClaimSignerAddress: 0xb93206b18f018fb91eefbc39cb59fa1ce8e626d4
 ```
-
-[![N|Solid](https://github.com/Safehaven-io/Smart_Contracts/blob/master/Media/fundrequestlogo.png)](https://fundrequest.io/)
 
 # Security Auditing partners
 
