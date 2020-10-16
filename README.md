@@ -71,12 +71,12 @@ const tokenMaturityPeriods: {[key in StrengthLevelValue]: number} = {
 
 | Contract Name  | Contract Adress |
 | ------------- | ------------- |
-|  storeFactory Test |   |
-| priceManager Test |   |
+| storeFactory Test | will be published after all Security audits has been completed  |
+| priceManager Test | will be published after all Security audits has been completed  |
 | Contract Name  | Contract Adress |
 | ------------- | ------------- |
-|  storeFactory Main |   |
-| priceManager Main |   |
+| storeFactory Main |  will be published after all Security audits has been completed |
+| priceManager Main |  will be published after all Security audits has been completed |
 
 ## ThorBlock
 
@@ -99,12 +99,12 @@ const tokenMaturityPeriods: {[key in StrengthLevelValue]: number} = {
 
 | Contract Name  | Contract Adress |
 | ------------- | ------------- |
-|  Migrations: 0x232bec4b94e5bf0fb3e33372f1d9446b91003cad|
-|  PoolFactoryV1: 0x137cc4caf35d547753d9df948a059c508c0c2795|
-|  PoolRepository: 0xb0f6c51714ce0673728c30ad980e80cc1129080a|
-|  Splitter: 0x303fd0d5b3ff7ef22db3679d6473a893cc2c58f3|
-|  ThorBlock: 0x492f70396ca2b9472cd24e3b81174122492c545c|
-|  ThorblockPreconditionsV1: 0xa0e1b1a9447307a9dd7f64e9dccfdcf5f58929cb|
+|  Migrations| 0x232bec4b94e5bf0fb3e33372f1d9446b91003cad|
+|  PoolFactoryV1| 0x137cc4caf35d547753d9df948a059c508c0c2795|
+|  PoolRepository| 0xb0f6c51714ce0673728c30ad980e80cc1129080a|
+|  Splitter| 0x303fd0d5b3ff7ef22db3679d6473a893cc2c58f3|
+|  ThorBlock| 0x492f70396ca2b9472cd24e3b81174122492c545c|
+|  ThorblockPreconditionsV1| 0xa0e1b1a9447307a9dd7f64e9dccfdcf5f58929cb|
 
 # Charity
 
