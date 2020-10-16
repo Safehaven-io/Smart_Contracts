@@ -182,3 +182,7 @@ const tokenMaturityPeriods: {[key in StrengthLevelValue]: number} = {
 
 # Security Auditing partners
 
+* RED4SEC
+* HOSHO
+* Beijings Chains guard technology
+* Intigriti
