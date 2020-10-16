@@ -11,8 +11,8 @@ Smart Contracts for SafeHaven, Fundrequest, ThorBlock and inheriti
 
 Even though we moved to the Vechain Enterprise Blockchain, deploying an ERC20 token contract on Ethereum was necessary to solve an issue our primablock contributors were having. We created a limited supply on Ethereum with the solely purpose of performing a swap afterwards.
 ```
-Contract adress : https://etherscan.io/address/0x1e85407e080a5e6d20a3a95fcdddfc32146fc8e5
-Kovan adress : https://kovan.etherscan.io/address/0xf0b7f7c40756a9301579bf08e27aaf7f117945bb
+Contract Address : https://etherscan.io/address/0x1e85407e080a5e6d20a3a95fcdddfc32146fc8e5
+Kovan Address : https://kovan.etherscan.io/address/0xf0b7f7c40756a9301579bf08e27aaf7f117945bb
 ```
 ### Vechain Token contract. (VIP180)
 ```
@@ -69,12 +69,12 @@ const tokenMaturityPeriods: {[key in StrengthLevelValue]: number} = {
 
 ### Inheriti Source Code Audits.[![N|Solid](https://img.shields.io/badge/Audited-Ongoing-yellow)](https://inheriti.com/)
 
-| Contract Name  | Contract Adress |
+| Contract Name  | Contract Address |
 | ------------- | ------------- |
 | storeFactory Test | will be published after all Security audits has been completed  |
 | priceManager Test | will be published after all Security audits has been completed  |
 
-| Contract Name  | Contract Adress |
+| Contract Name  | Contract Address |
 | ------------- | ------------- |
 | storeFactory Main |  will be published after all Security audits has been completed |
 | priceManager Main |  will be published after all Security audits has been completed |
@@ -87,7 +87,7 @@ const tokenMaturityPeriods: {[key in StrengthLevelValue]: number} = {
 
 # Pooling
 
-| Contract Name  | Contract Adress |
+| Contract Name  | Contract Address |
 | ------------- | ------------- |
 | FundsRepositoryFactoryV1| 0xf40afaa6d63f938e49633c2436ce371e4b80c914|
 |  Migrations| 0xc013c1fa2ae7e1187809dde6423c7d3615871968|
@@ -100,7 +100,7 @@ const tokenMaturityPeriods: {[key in StrengthLevelValue]: number} = {
 
 # Fundraising
 
-| Contract Name  | Contract Adress |
+| Contract Name  | Contract Address |
 | ------------- | ------------- |
 |  Migrations| 0x232bec4b94e5bf0fb3e33372f1d9446b91003cad|
 |  PoolFactoryV1| 0x137cc4caf35d547753d9df948a059c508c0c2795|
@@ -111,7 +111,7 @@ const tokenMaturityPeriods: {[key in StrengthLevelValue]: number} = {
 
 # Charity
 
-| Contract Name  | Contract Adress |
+| Contract Name  | Contract Address |
 | ------------- | ------------- |
 |  Migrations| 0xf61d1156f93b088f2b9d4f2c117c04a328c756f7|
 |  PoolFactoryV1| 0x728afe187008efac8f68c0e565bf83fee39756cd|
@@ -131,7 +131,7 @@ const tokenMaturityPeriods: {[key in StrengthLevelValue]: number} = {
 
 #### Mainnet
 
-| Contract Name  | Contract Adress |
+| Contract Name  | Contract Address |
 | ------------- | ------------- |
 | MiniMeTokenFactory  | 0x8b0b13d43122eaba2b2318387dc6a368ce398f6a  |
 | FundRequestToken  | 0x4df47b4969b2911c966506e3592c41389493953b  |
