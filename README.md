@@ -182,3 +182,4 @@ const tokenMaturityPeriods: {[key in StrengthLevelValue]: number} = {
 * HOSHO
 * Beijings Chains guard technology
 * Intigriti
+* Least Authority
