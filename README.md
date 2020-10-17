@@ -63,9 +63,9 @@ const tokenMaturityPeriods: {[key in StrengthLevelValue]: number} = {
 ```
 ## Inheriti
 
-### Inheriti Platform Smart contracts.[![N|Solid](https://img.shields.io/badge/Audited-100%25-blue)](https://inheriti.com/)[![N|Solid](https://img.shields.io/badge/Status-pass-green)](https://inheriti.com/)
-
 [![N|Solid](https://github.com/Safehaven-io/Smart_Contracts/blob/master/Media/inheritilogo.png)](https://inheriti.com/)
+
+### Inheriti Platform Smart contracts.[![N|Solid](https://img.shields.io/badge/Audited-100%25-blue)](https://inheriti.com/)[![N|Solid](https://img.shields.io/badge/Status-pass-green)](https://inheriti.com/)
 
 ### Inheriti Source Code Audits.[![N|Solid](https://img.shields.io/badge/Audited-Ongoing-yellow)](https://inheriti.com/)
 
