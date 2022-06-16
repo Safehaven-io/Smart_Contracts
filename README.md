@@ -2,7 +2,7 @@
 
 Smart Contracts for SafeHaven, Fundrequest, ThorBlock and inheriti 
 
-[![N|Solid](https://raw.githubusercontent.com/Safehaven-io/Media/master/safehaven/logo-2022/Logo/SafeHaven_Logo_Color.png)](https://safehaven.io/)
+[![N|Solid](https://raw.githubusercontent.com/Safehaven-io/Media/master/safehaven/logo-2022/Logo/SafeHaven_Logo_Color.png | width=100)](https://safehaven.io/)
 
 ## SafeHaven
 
